@@ -1,0 +1,13 @@
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\bin\Debug\netcoreapp3.1\Zahlenratespiel_Martic.exe
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\bin\Debug\netcoreapp3.1\Zahlenratespiel_Martic.deps.json
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\bin\Debug\netcoreapp3.1\Zahlenratespiel_Martic.runtimeconfig.json
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\bin\Debug\netcoreapp3.1\Zahlenratespiel_Martic.runtimeconfig.dev.json
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\bin\Debug\netcoreapp3.1\Zahlenratespiel_Martic.dll
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\bin\Debug\netcoreapp3.1\Zahlenratespiel_Martic.pdb
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\obj\Debug\netcoreapp3.1\Zahlenratespiel_Martic.csproj.AssemblyReference.cache
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\obj\Debug\netcoreapp3.1\Zahlenratespiel_Martic.AssemblyInfoInputs.cache
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\obj\Debug\netcoreapp3.1\Zahlenratespiel_Martic.AssemblyInfo.cs
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\obj\Debug\netcoreapp3.1\Zahlenratespiel_Martic.csproj.CoreCompileInputs.cache
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\obj\Debug\netcoreapp3.1\Zahlenratespiel_Martic.dll
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\obj\Debug\netcoreapp3.1\Zahlenratespiel_Martic.pdb
+C:\Users\Igor Martic\source\repos\Zahlenratespiel_Martic\Zahlenratespiel_Martic\obj\Debug\netcoreapp3.1\Zahlenratespiel_Martic.genruntimeconfig.cache
